@@ -349,14 +349,14 @@ function allcorrect(event) {
     try {
         let hack = Object.values(document.querySelector('#app > div > div'))[1].children[1]._owner;
         hack.stateNode.questions = [{
-            "text": "oof what u doing",
+            "text": "What is liu in english?",
             "answers": [
-                "Helping other",
-                "playing blooket"
+                "7",
+                "6"
             ],
             "correctAnswers": [
-                "Helping other",
-                "playing blooket"
+                "7",
+                "6"
             ],
             "number": 1,
             "random": false,
@@ -365,14 +365,14 @@ function allcorrect(event) {
             "audio": null
         }]
         hack.stateNode.freeQuestions = [{
-            "text": "oof what u doing",
+            "text": "What is liu in english?",
             "answers": [
-                "Helping other",
-                "playing blooket"
+                "7",
+                "6"
             ],
             "correctAnswers": [
-                "Helping other",
-                "playing blooket"
+                "7",
+                "6"
             ],
             "number": 1,
             "random": false,
