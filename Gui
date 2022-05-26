@@ -361,7 +361,7 @@ function allcorrect(event) {
             "number": 1,
             "random": false,
             "timeLimit": "999",
-            "image": "https://media.blooket.com/image/upload/c_limit,f_auto,h_250,fl_lossy,q_auto:low/v1650444812/vr9fwibbp1mm0ge8hbuz.jpg",
+            "image": "",
             "audio": null
         }]
         hack.stateNode.freeQuestions = [{
@@ -377,7 +377,7 @@ function allcorrect(event) {
             "number": 1,
             "random": false,
             "timeLimit": "999",
-            "image": "https://media.blooket.com/image/upload/c_limit,f_auto,h_250,fl_lossy,q_auto:low/v1650444812/vr9fwibbp1mm0ge8hbuz.jpg",
+            "image": "",
             "audio": null
         }]
         var z = document.getElementsByTagName("iframe")
